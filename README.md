@@ -1,7 +1,7 @@
 # trendpulse-Areez
 TrendPulse: What's Actually Trending Right Now
 
-TrendPulse is a 4-part data pipeline designed to track real-time trends from the HackerNews API.
+TrendPulse is a 3-part data pipeline designed to track real-time trends from the HackerNews API.
 
 Project Pipeline
 Task 1: Data Collection (task1_data_collection.py) - Fetches and categorizes stories.
